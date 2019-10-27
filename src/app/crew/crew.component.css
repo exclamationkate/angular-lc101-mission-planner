@@ -23,3 +23,8 @@ h3 {
 .selected {
     color: rgb(33, 160, 147);
 }
+
+.astronautInfo {
+    font-weight: bold;
+    text-align: center;
+}
