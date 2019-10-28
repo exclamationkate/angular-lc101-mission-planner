@@ -6,3 +6,11 @@
 h3 {
     text-align: center;
 }
+
+li:hover {
+    cursor: pointer;
+}
+
+.selected {
+    color: rgb(160, 138, 15);
+}

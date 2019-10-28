@@ -26,3 +26,7 @@ h3 {
 .equipmentList {
     list-style: none;
 }
+
+.right {
+    justify-content: right;
+}
